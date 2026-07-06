@@ -1,0 +1,96 @@
+GAME p1
+SIZE 4 4
+RESULT Player 1 (X) wins
+MOVES 15
+3 X
+2 O
+3 X
+2 O
+3 X
+3 O
+2 X
+1 O
+4 X
+1 O
+4 X
+4 O
+1 X
+4 O
+1 X
+END
+GAME p2
+SIZE 4 4
+RESULT Player 1 (X) wins
+MOVES 9
+4 X
+4 O
+3 X
+4 O
+4 X
+3 O
+2 X
+2 O
+1 X
+END
+GAME p3
+SIZE 4 4
+RESULT Player 2 (O) wins
+MOVES 14
+1 X
+4 O
+2 X
+4 O
+3 X
+4 O
+4 X
+3 O
+3 X
+2 O
+1 X
+2 O
+1 X
+1 O
+END
+GAME i lost to a comp
+SIZE 5 4
+RESULT Player 2 (O) wins
+MOVES 18
+1 X
+1 O
+2 X
+4 O
+4 X
+1 O
+3 X
+1 O
+1 X
+4 O
+3 X
+3 O
+3 X
+3 O
+4 X
+4 O
+2 X
+2 O
+END
+GAME i won the comp
+SIZE 4 5
+RESULT Player 1 (X) wins
+MOVES 15
+5 X
+2 O
+2 X
+2 O
+2 X
+5 O
+3 X
+3 O
+3 X
+5 O
+5 X
+3 O
+1 X
+4 O
+4 X
+END
