@@ -1,6 +1,5 @@
 //sarina hemmat
 //40437555
-//hello
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
